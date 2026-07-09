@@ -1,5 +1,5 @@
 #onJoin
-hasplugin hasSurvival|survival
+hasplugin hasSurvival|cc_st
 ifnot hasSurvival goto #kickPlayer
 
 #kickPlayer
